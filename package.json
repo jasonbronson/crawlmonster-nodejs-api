@@ -1,0 +1,22 @@
+{
+  "name": "crawlmonster-node-api",
+  "version": "1.0.0",
+  "description": "Api for crawlmonster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonbronson/crawlmonster-nodejs-api.git"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "jason bronson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonbronson/crawlmonster-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/jasonbronson/crawlmonster-nodejs-api#readme"
+}
